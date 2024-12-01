@@ -7,19 +7,19 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Main Menu.unity
-    guid: 698c87ad5fb55224c95d0832b01aa5c1
+    guid: 00cc6c0785396d248a10365f898c4033
   - enabled: 1
-    path: Assets/Scenes/Character Selection.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Character Select.unity
+    guid: da379b7948f649847810b0e699c26f44
   - enabled: 1
-    path: Assets/Scenes/Map Selection.unity
-    guid: f6460e3c154c9f441a54b000ee31a96e
+    path: Assets/Scenes/Map Select.unity
+    guid: 2cb6fa307248ba0498fe8989f18bba5a
   - enabled: 1
     path: Assets/Scenes/Introduction.unity
-    guid: 213f30ec19c07af45ad864acd731a035
+    guid: 547e26fd98999b04aa08cb8724c42144
   - enabled: 1
     path: Assets/Scenes/Game.unity
-    guid: 6323d0fbeb4d52947914238be41e9bae
+    guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
